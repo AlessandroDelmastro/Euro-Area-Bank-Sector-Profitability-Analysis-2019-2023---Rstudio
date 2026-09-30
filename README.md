@@ -15,7 +15,7 @@ eastern bank earned a return on equity about five times that of the median centr
 - **Question.** How did asset quality, capital and profitability of euro area banks evolve
   through the Covid shock and the subsequent monetary tightening, and how much do they differ
   across countries and macro-regions?
-- **Scope.** 3,421 banks across 19 euro area countries, five years of annual accounts.
+- **Scope.** 3,443 banks across 19 euro area countries, five years of annual accounts.
   Croatia is excluded because it adopted the euro only in 2023.
 - **Consolidation.** BankFocus lists a bank once per consolidation level (codes C1, C2, U1, U2,
   C\*, U\*). Only one statement per bank and year is kept, chosen by the priority
@@ -90,7 +90,8 @@ NPL ratio, system aggregate on the balanced sample of 1,144 banks, per cent:
 | South | 7.32 | 5.91 | 4.36 | 3.50 | 3.13 |
 
 This is the largest change in the data. The South more than halved its NPL ratio and the East
-cut it by a third, while the North and Center, already lower, stayed broadly flat. The
+cut it by about a third, while the North and Center, starting from lower levels, changed much
+less: the North went from 2.4% to 2.0%, the Center stayed at about 2.4%. The
 South–North gap narrowed from 4.9 to 1.2 percentage points. The improvement did not reverse in
 2020, consistent with the public guarantee schemes and moratoria that kept defaults from reaching
 bank accounts. At country level, the Greek NPL ratio fell from 49.7% to 6.3% and the Cypriot one
@@ -169,3 +170,4 @@ through Covid, closing most of the gap with the rest of the euro area. Profitabi
 more uneven story: every region recovered after 2020, but the higher rates of 2022–2023 lifted
 returns in the East, South and North much more than in the Center, where most of the
 institutions are.
+
