@@ -1,5 +1,4 @@
 ################################################################################
-# Case Study 1 - Trends in Euro Area Banking Metrics, 2019-2023
 #
 # Compares asset quality (NPL ratio), capitalisation (Total capital, Tier 1, CET1,
 # Tier 2 over RWAs) and profitability (ROE, ROA, net interest income, NIM) of euro
